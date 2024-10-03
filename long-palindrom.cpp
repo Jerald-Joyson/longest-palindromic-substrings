@@ -2,6 +2,7 @@
 
 // I am less aware about the typescript, so I have done the above problem in C++
 
+// https://github.com/Jerald-Joyson/longest-palindromic-substrings
 
 #include <iostream>
 #include <string>
