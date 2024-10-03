@@ -1,6 +1,9 @@
 # I'm really sorry for this code as I don't know how to set operations in Solr, 
 # and I did it by using Google and StackOverflow and also chatgpt 
 
+# https://github.com/Jerald-Joyson/longest-palindromic-substrings
+
+
 import subprocess
 import pysolr
 import pandas as pd
