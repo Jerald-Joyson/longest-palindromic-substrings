@@ -183,7 +183,7 @@ if __name__ == "__main__":
     getEmpCount(v_nameCollection)
 
     # Search by column
-    searchByColumn(v_nameCollection, 'Department', 'IT')
+    # searchByColumn(v_nameCollection, 'Department', 'IT')
     searchByColumn(v_nameCollection, 'Gender', 'Male')
     searchByColumn(v_phoneCollection, 'Department', 'IT')
 
